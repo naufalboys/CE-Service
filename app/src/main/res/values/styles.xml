@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="colorAccent">@color/secondaryColor</item>
+    </style>
+
+    <style name="editText_style">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/edittext_background</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:ems">10</item>
+    </style>
+
+    <style name="editButton_style">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/edit_button</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:ems">10</item>
+    </style>
+
+    <style name="editButton2_style">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/edit_button2</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+
+    <style name="card">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/card</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+
+</resources>

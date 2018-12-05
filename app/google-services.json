@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "281497247980",
+    "firebase_url": "https://pelayanan-mahasiswa.firebaseio.com",
+    "project_id": "pelayanan-mahasiswa",
+    "storage_bucket": "pelayanan-mahasiswa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281497247980:android:4675a80546604ab4",
+        "android_client_info": {
+          "package_name": "com.example.habib.cardnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281497247980-292b9fblaeaevc8qk7t5kboshsl8ppd6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.habib.cardnew",
+            "certificate_hash": "70b024898babea58c2cf98ab91ffed9ee508a7db"
+          }
+        },
+        {
+          "client_id": "281497247980-sjso05f0dttdq3afd5dduq9dgo307tfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSMLEvb53zq3U4b4F3rRlOLkLVIaNs4Bw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281497247980-sjso05f0dttdq3afd5dduq9dgo307tfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
