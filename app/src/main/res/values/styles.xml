@@ -23,7 +23,7 @@
     </style>
 
     <style name="editButton2_style">
-        <item name="android:gravity">center</item>
+        <item name="android:gravity">start</item>
         <item name="android:background">@drawable/edit_button2</item>
         <item name="android:layout_width">match_parent</item>
     </style>
@@ -33,5 +33,9 @@
         <item name="android:background">@drawable/card</item>
         <item name="android:layout_width">match_parent</item>
     </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
 </resources>

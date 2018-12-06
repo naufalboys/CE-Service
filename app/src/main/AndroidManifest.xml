@@ -23,6 +23,10 @@
         <activity android:name=".download" />
         <activity android:name=".pusat_info" />
         <activity android:name=".signup" />
+        <activity
+            android:name=".detail_alur"
+            android:label="@string/title_activity_detail_alur"
+            android:theme="@style/AppTheme"></activity>
     </application>
 
 </manifest>
